@@ -10,3 +10,5 @@ I'd been waiting for someone to build it - it seemed such an obvious merger of H
 Whilst building it I learnt huge amounts about the limits of CSS and Javascript, hardware acceleration and resource management. It's still ongoing. I'm still plugging away at it, and all the time the hardware and techniques bring it closer to reality. Bardot was never meant to be a money maker. It was the sort of project the open web was built on. A need to set information free
 
 [Have a look at it with the Farnborough 1960 Review mag](http://craigmorey.co.uk/arch/bardot/5/)
+
+[View it running on an iPad mini retina](https://vimeo.com/81313543)
